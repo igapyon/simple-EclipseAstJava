@@ -2,7 +2,7 @@
 
 2018-04-17 diary: Eclipse AST を利用した シンプルな Java ソースコード解析
 =====================================================================================================
-[![いがぴょん画像(小)](http://www.igapyon.jp/igapyon/diary/images/iga200306s.jpg "いがぴょん")](http://www.igapyon.jp/igapyon/diary/memo/memoigapyon.html) の日記に関連のあるコンテンツ。
+[![いがぴょん画像(小)](http://www.igapyon.jp/igapyon/diary/images/iga200306s.jpg "いがぴょん")](http://www.igapyon.jp/igapyon/diary/memo/memoigapyon.html) [いがぴょん](http://www.igapyon.jp/igapyon/diary/memo/memoigapyon.html)の日記に関連のあるコンテンツ。
 
 ## Eclipse AST を利用した シンプルな Java ソースコード解析
 
@@ -47,7 +47,7 @@ import org.eclipse.jdt.core.dom.CompilationUnit;
 
 完全なソースコードは [https://github.com/igapy...ipseAstJava](https://github.com/igapyon/simple-EclipseAstJava) にて参照することができます。
 
-### 関連する日記
+### 関連する情報
 
 * [2016-10-22 diary: Eclipse AST を利用した Java ソースコード解析](http://www.igapyon.jp/igapyon/diary/2016/ig161022.html) : 旧バージョン
 * [2016-10-23 diary: Eclipse AST を利用した PHP ソースコード解析](http://www.igapyon.jp/igapyon/diary/2016/ig161023.html)
